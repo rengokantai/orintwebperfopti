@@ -12,3 +12,10 @@ loadeventstart->loadeventend
 
 - DOM Const
 HTML to DOM tree->Render tree->Layout Render Tree->Paint Render Tree
+
+- Measurement Opt
+
+```js
+performance.timing
+navigator.sendBeacon
+```
